@@ -10,6 +10,7 @@ namespace Code
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Commit 1");
         }
     }
 }

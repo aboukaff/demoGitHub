@@ -1,0 +1,9 @@
+diff a/Code/Code/Program.cs b/Code/Code/Program.cs	(rejected hunks)
+@@ -13,6 +13,7 @@
+             Console.WriteLine("Commit 1");
+             Console.WriteLine("Commit 2");
+             Console.WriteLine("Commit 1 - Branch 1");
++            Console.WriteLine("Commit 2 - Branch 1");
+         }
+     }
+ }

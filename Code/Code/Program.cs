@@ -18,6 +18,7 @@ namespace Code
             Console.WriteLine("Commit 3");
             Console.WriteLine("Branch 3 - Commit 1");
             Console.WriteLine("Branch 5 - Commit 1");
+            Console.WriteLine("Branch 5 - Commit 2");
         }
     }
 }

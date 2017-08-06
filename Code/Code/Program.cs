@@ -11,6 +11,7 @@ namespace Code
         static void Main(string[] args)
         {
             Console.WriteLine("Commit 1");
+            Console.WriteLine("Commit 2");
         }
     }
 }

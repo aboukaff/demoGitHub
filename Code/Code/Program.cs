@@ -22,6 +22,7 @@ namespace Code
             Console.WriteLine("Branch 5 - Commit 3");
             Console.WriteLine("Master - Commit 3");
             Console.WriteLine("Master - Commit 4");
+            Console.WriteLine("Master - Commit 5");
         }
     }
 }

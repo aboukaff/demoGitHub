@@ -26,6 +26,7 @@ namespace Code
             Console.WriteLine("Master - Commit 3");
             Console.WriteLine("Master - Commit 4");
             Console.WriteLine("Master - Commit 5");
+            Console.WriteLine("Rebase Demo - Commit 4");
         }
     }
 }

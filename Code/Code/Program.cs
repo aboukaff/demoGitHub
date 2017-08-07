@@ -30,6 +30,7 @@ namespace Code
             Console.WriteLine("Rebase Demo - Commit 5");
             Console.WriteLine("Rebase Demo - Commit 6");
             Console.WriteLine("Rebase Demo - Commit 7");
+            Console.WriteLine("Rebase Demo - Commit 8");
         }
     }
 }

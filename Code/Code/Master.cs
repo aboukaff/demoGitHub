@@ -9,5 +9,6 @@ namespace Code
     class Master
     {
         // Master 1
+        // Master 2
     }
 }
